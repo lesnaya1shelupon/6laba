@@ -5,7 +5,7 @@ b = tuple(map(int, input().split()))
 sum = 0
 
 if len(a) != 26 and len(b) != 26:
-    print("Неверный размер списка", file=sys.stderr)
+    print("Неверный размер кортежа", file=sys.stderr)
     exit(1)
 
 for i in a:
