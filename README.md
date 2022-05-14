@@ -1,1 +1,1 @@
-# 6laba
+Romanov Platon ITS-b-o-21-1 6laba
